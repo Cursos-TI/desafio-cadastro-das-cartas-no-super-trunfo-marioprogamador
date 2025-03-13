@@ -44,7 +44,7 @@ printf("digite sua polulacao:");
 scanf("%d", &populacao1);
 
 printf("digite a area em km2:");
-scanf("%f", &area1_km2,\n);
+scanf("%f", &area1_km2,);
 
 printf("digite o pib da sua cidade:");
 scanf("%f", &pib1);
